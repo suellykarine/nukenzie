@@ -1,0 +1,12 @@
+@media (min-width: 480px) {
+    ul {
+        list-style: none;
+        width: 100%;
+    }
+    li {
+        margin: 10px;
+        width: 75%;
+        background: #f8f9fa;
+        border-radius: 4px;
+    }
+}

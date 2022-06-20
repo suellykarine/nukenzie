@@ -1,0 +1,32 @@
+.containerPaginaInicial {
+    background: #212529;
+    height: 600px;
+}
+
+.div-img2 {
+    border: 0px solid #212529;
+    margin-top: -400px;
+}
+
+.div-botao {
+    padding-left: 235px;
+    padding-top: 30px;
+}
+
+.botao-pagina-principal {
+    width: 241px;
+    height: 48px;
+    cursor: pointer;
+    background: #fd377e;
+    border: 2px solid #fd377e;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: white;
+}
+
+.img1 {
+    margin-top: 205px;
+    width: 358px;
+    border-radius: 195px;
+    margin-left: 670px;
+}
